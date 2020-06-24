@@ -3,11 +3,7 @@
 <ol>
     <div>
     <li>Install dependencies:</li>
-    <pre>npm install -g typescript; npm install;</pre>
-    </div>
-    <div>
-    <li>Transpile ts files</li>
-    <pre>tsc src/index.ts</pre>
+    <pre>npm install;</pre>
     </div>
     <div>
     <li>Run server</li>
